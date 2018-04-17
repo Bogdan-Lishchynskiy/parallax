@@ -1,3 +1,8 @@
+body{
+  margin:0;
+  padding: 0;
+}
+
 h1 {
     margin: 0;
   }
@@ -5,12 +10,12 @@ h1 {
   .content {
     background: cyan;
     height: 350px;
-    width: 700px;
+    width: 100%;
   }
   
   #parallax {
     background:greenyellow;
-    width: 700px;
+    width: 100%;
     background: url(http://www.verticalworld.net/school/programs/uploads/pics/program_108_1.jpg);
     height: 200px;
     background-repeat: no-repeat;
